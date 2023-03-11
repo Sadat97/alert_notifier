@@ -7,6 +7,6 @@
   "Tag": "Test",
   "Description": "The server was unable to deliver your message (ex: unknown user, mailbox not found).",
   "Email": "arthur@example.com",
-  "From": "notifications@honeybadger.io",
+  "From": "notifications@alerts.io",
   "BouncedAt": "2019-11-05T16:33:54.9070259Z"
 }
